@@ -1,0 +1,17 @@
+[
+  {
+    "title": "ChatApp",
+    "applicationType": "Web Application",
+    "description": "A Firebase-chatapp web application for real time chatting"
+  },
+  {
+    "title": "Cartooning Image",
+    "applicationType": "OpenCV",
+    "description": "A model for cartooning the input images"
+  },
+  {
+    "title": "Online CPP Compiler",
+    "applicationType": "Programming",
+    "description": "An online CPP compiler generates outfile file on the code and input."
+  }
+]

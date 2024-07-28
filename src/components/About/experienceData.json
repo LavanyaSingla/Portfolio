@@ -1,0 +1,19 @@
+{
+    "title": "My Experience",
+    "description": "Here is an overview of my professional experience.",
+    "jobs": [
+      {
+        "name": "Aditya Birla Capital",
+        "position": "Software Developer",
+        "years": "Jun'23 - Present",
+        "details": "Working on various front-end and back-end projects."
+      },
+      {
+        "name": "Wabtec Corporation",
+        "position": "Software Engineer",
+        "years": "Jan'23 - Jun'23",
+        "details": "Assisted in developing web applications and creating numerous test-cases for automation testing."
+      }
+    ]
+  }
+  

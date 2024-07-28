@@ -1,0 +1,21 @@
+{
+    "title": "My Education",
+    "description": "I am a graduate, working professional.",
+    "schools": [
+        {
+            "name": "National Institute of Technology, Patna",
+            "years": "2019-2023",
+            "cgpa": "8.41 CGPA"
+        },
+        {
+            "name": "Luv Kush Model School",
+            "years": "2017-2019",
+            "cgpa": "94.8 %"
+        },
+        {
+            "name": "D.A.V. Senior Secondary Public School",
+            "years": "2004-2017",
+            "cgpa": "10 CGPA"
+        }
+    ]
+}

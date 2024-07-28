@@ -1,0 +1,84 @@
+ #education {
+     overflow: hidden;
+     width: 100vw;
+     max-width: 65rem;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     margin: 0 auto;
+     height: 80vh;
+ }
+
+ .educationTitle {
+     font-size: 2.5rem;
+     font-weight: 600;
+     padding-top: 3rem;
+     margin-bottom: 1rem;
+ }
+
+ .educationDesc {
+     font-weight: 300;
+     font-size: 1rem;
+     max-width: 50rem;
+     padding: 0 1.5rem;
+ }
+
+ .educationBars {
+     margin: 0.5rem;
+     width: 100vw;
+     max-width: 70%;
+     text-align: left;
+ }
+
+ .educationBar {
+     /* display: flex; */
+     height: 8.5rem;
+     margin: 0.5rem;
+     padding: 1.5rem 2rem;
+     border-radius: 0.5rem;
+     background: rgb(50, 50, 50);
+ }
+
+ #tabs {
+     margin-top: 3rem;
+     height: 3rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .tabBtn {
+     background-color: white;
+     color: black;
+     margin: 1rem;
+     padding: 0.75rem 1.5rem;
+     border-radius: 0.75rem;
+     cursor: pointer;
+ }
+
+ .tabBtn:hover {
+     background-color: rgb(124, 124, 123);
+ }
+
+ .singleRow {
+     margin-right: 10rem;
+ }
+
+ @media screen and (max-width:840px) {
+     .educationBar {
+         height: 12rem;
+         font-size: 0.5rem;
+         justify-content: center;
+     }
+ }
+
+ @media screen and (max-width:48px) {
+     .educationBar {
+         height: 15rem;
+         width: 100vw;
+         font-size: 0.65rem;
+         justify-content: center;
+     }
+ }

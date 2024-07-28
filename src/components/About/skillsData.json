@@ -1,0 +1,19 @@
+{
+    "title": "My Skills",
+    "description": "Here are some of the skills I have acquired.",
+    "skills": [
+      {
+        "type": "Programming Languages",
+        "names": "C++, Python, OOPS"
+      },
+      {
+        "type": "Development Tech Stack",
+        "names": "HTML, CSS, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, DynamoDB"
+      },
+      {
+        "type": "Others",
+        "names": "Git, Selenium"
+      }
+    ]
+  }
+  
