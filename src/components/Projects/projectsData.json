@@ -1,5 +1,10 @@
 [
   {
+    "title": "DocSync(Google docs clone)",
+    "applicationType": "Web Application",
+    "description": "A MERN based application where multiple users can collaborate together in real-time"
+  },
+  {
     "title": "ChatApp",
     "applicationType": "Web Application",
     "description": "A Firebase-chatapp web application for real time chatting"
